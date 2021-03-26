@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>test.jsp</title>
+<title>타이틀을변경</title>
 <meta name="description" content="웹사이트 검색시 홈페이지에 대한 설명이 나오는 부분">
 <meta name="author" content="누가 만들었는지 기입할 수 있다">
 <script src="https://kit.fontawesome.com/7bd2081d90.js" crossorigin="anonymous"></script>
